@@ -10,6 +10,6 @@
 # which the CI credential can reach.
 isaacsim_image_name: nvcr.io/0947644777160149/internal/isaac-sim
 # Pinned to Isaac Sim 6.1.0-alpha.47 (commit 0d707bba) for reproducible CI.
-isaacsim_image_tag: latest-develop@sha256:a0fe646aa0d2c717a51231589eb210a8f59db7d3e6ccb8e8ba8b11f9ae13ed85
+isaacsim_image_tag: latest-develop@sha256:dddd193e3992ad3f22bdd0aabce5b9d5c09fc6750f7d3a0c33edba5d5838f3d0
 isaaclab_image_name: nvcr.io/0947644777160149/internal/isaac-lab
 ovphysx_wheelhouse_image: ""
